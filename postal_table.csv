@@ -1,0 +1,1001 @@
+postal,status_id,status_name,count_status
+M1B,21,Inspection,85
+M1B,32,"Permit Issued",34
+M1B,44,"Revision Issued",7
+M1B,6,"Application On Hold",4
+M1B,14,"Examiner'S Notice Sent",3
+M1B,26,"Not Started",3
+M1B,5,"Application Acceptable",2
+M1B,31,"Pending Cancellation",1
+M1B,27,"Notice Sent",1
+M1B,38,"Refusal Notice",1
+M1C,21,Inspection,15
+M1C,32,"Permit Issued",7
+M1C,23,"Issuance Pending",2
+M1C,27,"Notice Sent",2
+M1C,26,"Not Started",2
+M1C,42,"Response Received",1
+M1C,49,"Work Not Started",1
+M1E,21,Inspection,98
+M1E,32,"Permit Issued",42
+M1E,44,"Revision Issued",7
+M1E,45,"Revocation Pending",4
+M1E,38,"Refusal Notice",4
+M1E,27,"Notice Sent",2
+M1E,5,"Application Acceptable",2
+M1E,37,"Ready For Issuance",2
+M1E,47,"Under Review",1
+M1E,4,"Applicable Law Pending",1
+M1G,21,Inspection,32
+M1G,32,"Permit Issued",23
+M1G,44,"Revision Issued",3
+M1G,14,"Examiner'S Notice Sent",1
+M1G,47,"Under Review",1
+M1G,27,"Notice Sent",1
+M1H,21,Inspection,108
+M1H,32,"Permit Issued",45
+M1H,44,"Revision Issued",6
+M1H,23,"Issuance Pending",5
+M1H,6,"Application On Hold",5
+M1H,14,"Examiner'S Notice Sent",5
+M1H,38,"Refusal Notice",2
+M1H,27,"Notice Sent",2
+M1H,31,"Pending Cancellation",2
+M1H,10,Closed,1
+M1H,42,"Response Received",1
+M1H,49,"Work Not Started",1
+M1H,50,"Work Suspended",1
+M1J,21,Inspection,92
+M1J,32,"Permit Issued",48
+M1J,14,"Examiner'S Notice Sent",11
+M1J,23,"Issuance Pending",4
+M1J,47,"Under Review",3
+M1J,27,"Notice Sent",3
+M1J,45,"Revocation Pending",3
+M1J,44,"Revision Issued",2
+M1J,38,"Refusal Notice",1
+M1J,6,"Application On Hold",1
+M1J,35,"Plan Review Complete",1
+M1K,21,Inspection,107
+M1K,32,"Permit Issued",37
+M1K,14,"Examiner'S Notice Sent",9
+M1K,27,"Notice Sent",5
+M1K,47,"Under Review",4
+M1K,44,"Revision Issued",3
+M1K,42,"Response Received",2
+M1K,6,"Application On Hold",2
+M1K,38,"Refusal Notice",2
+M1K,5,"Application Acceptable",1
+M1K,23,"Issuance Pending",1
+M1L,21,Inspection,130
+M1L,32,"Permit Issued",70
+M1L,6,"Application On Hold",16
+M1L,44,"Revision Issued",12
+M1L,14,"Examiner'S Notice Sent",10
+M1L,47,"Under Review",9
+M1L,23,"Issuance Pending",6
+M1L,38,"Refusal Notice",4
+M1L,27,"Notice Sent",2
+M1L,45,"Revocation Pending",2
+M1L,26,"Not Started",2
+M1L,10,Closed,1
+M1L,37,"Ready For Issuance",1
+M1L,49,"Work Not Started",1
+M1M,21,Inspection,30
+M1M,32,"Permit Issued",19
+M1M,27,"Notice Sent",5
+M1M,14,"Examiner'S Notice Sent",2
+M1M,45,"Revocation Pending",2
+M1M,42,"Response Received",1
+M1M,10,Closed,1
+M1N,21,Inspection,31
+M1N,23,"Issuance Pending",26
+M1N,47,"Under Review",24
+M1N,38,"Refusal Notice",22
+M1N,32,"Permit Issued",11
+M1N,27,"Notice Sent",6
+M1N,14,"Examiner'S Notice Sent",3
+M1N,6,"Application On Hold",2
+M1N,42,"Response Received",2
+M1N,44,"Revision Issued",2
+M1N,7,"Application Received",1
+M1N,31,"Pending Cancellation",1
+M1P,21,Inspection,472
+M1P,32,"Permit Issued",60
+M1P,44,"Revision Issued",42
+M1P,23,"Issuance Pending",6
+M1P,47,"Under Review",5
+M1P,14,"Examiner'S Notice Sent",5
+M1P,6,"Application On Hold",4
+M1P,42,"Response Received",4
+M1P,27,"Notice Sent",4
+M1P,26,"Not Started",2
+M1P,10,Closed,1
+M1R,21,Inspection,91
+M1R,32,"Permit Issued",50
+M1R,44,"Revision Issued",9
+M1R,27,"Notice Sent",5
+M1R,47,"Under Review",3
+M1R,10,Closed,2
+M1R,6,"Application On Hold",2
+M1R,23,"Issuance Pending",2
+M1R,31,"Pending Cancellation",1
+M1R,42,"Response Received",1
+M1R,26,"Not Started",1
+M1R,49,"Work Not Started",1
+M1R,36,Re-Examined,1
+M1S,21,Inspection,134
+M1S,32,"Permit Issued",91
+M1S,14,"Examiner'S Notice Sent",15
+M1S,44,"Revision Issued",13
+M1S,6,"Application On Hold",10
+M1S,23,"Issuance Pending",9
+M1S,26,"Not Started",7
+M1S,27,"Notice Sent",6
+M1S,47,"Under Review",4
+M1S,38,"Refusal Notice",3
+M1S,31,"Pending Cancellation",2
+M1S,42,"Response Received",2
+M1S,35,"Plan Review Complete",1
+M1S,45,"Revocation Pending",1
+M1S,5,"Application Acceptable",1
+M1T,21,Inspection,94
+M1T,32,"Permit Issued",51
+M1T,47,"Under Review",33
+M1T,23,"Issuance Pending",24
+M1T,44,"Revision Issued",8
+M1T,6,"Application On Hold",7
+M1T,26,"Not Started",6
+M1T,42,"Response Received",4
+M1T,27,"Notice Sent",4
+M1T,37,"Ready For Issuance",3
+M1T,38,"Refusal Notice",2
+M1T,10,Closed,2
+M1T,49,"Work Not Started",1
+M1T,14,"Examiner'S Notice Sent",1
+M1V,32,"Permit Issued",13
+M1V,21,Inspection,7
+M1V,47,"Under Review",3
+M1V,42,"Response Received",3
+M1V,5,"Application Acceptable",2
+M1V,44,"Revision Issued",1
+M1V,26,"Not Started",1
+M1V,7,"Application Received",1
+M1V,23,"Issuance Pending",1
+M1V,14,"Examiner'S Notice Sent",1
+M1V,31,"Pending Cancellation",1
+M1V,27,"Notice Sent",1
+M1V,38,"Refusal Notice",1
+M1V,45,"Revocation Pending",1
+M1W,21,Inspection,18
+M1W,32,"Permit Issued",9
+M1W,47,"Under Review",4
+M1W,23,"Issuance Pending",4
+M1W,14,"Examiner'S Notice Sent",2
+M1W,6,"Application On Hold",1
+M1W,27,"Notice Sent",1
+M1W,10,Closed,1
+M1X,21,Inspection,3
+M1X,15,"Extension Granted",2
+M1X,47,"Under Review",2
+M1X,32,"Permit Issued",2
+M1X,16,"Extension In Progress",1
+M1X,23,"Issuance Pending",1
+M2H,21,Inspection,55
+M2H,32,"Permit Issued",51
+M2H,27,"Notice Sent",5
+M2H,44,"Revision Issued",2
+M2H,6,"Application On Hold",1
+M2H,4,"Applicable Law Pending",1
+M2J,21,Inspection,286
+M2J,32,"Permit Issued",186
+M2J,44,"Revision Issued",22
+M2J,6,"Application On Hold",15
+M2J,26,"Not Started",7
+M2J,14,"Examiner'S Notice Sent",6
+M2J,23,"Issuance Pending",4
+M2J,45,"Revocation Pending",3
+M2J,38,"Refusal Notice",2
+M2J,27,"Notice Sent",2
+M2J,37,"Ready For Issuance",1
+M2J,5,"Application Acceptable",1
+M2J,49,"Work Not Started",1
+M2K,21,Inspection,196
+M2K,32,"Permit Issued",97
+M2K,47,"Under Review",7
+M2K,44,"Revision Issued",6
+M2K,45,"Revocation Pending",6
+M2K,14,"Examiner'S Notice Sent",4
+M2K,6,"Application On Hold",4
+M2K,27,"Notice Sent",2
+M2K,3,"Agreement In Progress",1
+M2K,42,"Response Received",1
+M2K,26,"Not Started",1
+M2M,21,Inspection,21
+M2M,32,"Permit Issued",8
+M2M,31,"Pending Cancellation",2
+M2M,44,"Revision Issued",1
+M2M,14,"Examiner'S Notice Sent",1
+M2M,23,"Issuance Pending",1
+M2M,5,"Application Acceptable",1
+M2N,21,Inspection,426
+M2N,32,"Permit Issued",236
+M2N,44,"Revision Issued",28
+M2N,14,"Examiner'S Notice Sent",13
+M2N,27,"Notice Sent",13
+M2N,45,"Revocation Pending",10
+M2N,26,"Not Started",10
+M2N,47,"Under Review",9
+M2N,6,"Application On Hold",7
+M2N,23,"Issuance Pending",5
+M2N,42,"Response Received",3
+M2N,5,"Application Acceptable",1
+M2N,38,"Refusal Notice",1
+M2N,4,"Applicable Law Pending",1
+M2N,10,Closed,1
+M2N,36,Re-Examined,1
+M2R,21,Inspection,125
+M2R,32,"Permit Issued",81
+M2R,6,"Application On Hold",10
+M2R,14,"Examiner'S Notice Sent",5
+M2R,27,"Notice Sent",4
+M2R,23,"Issuance Pending",4
+M2R,44,"Revision Issued",4
+M2R,45,"Revocation Pending",3
+M2R,47,"Under Review",3
+M2R,49,"Work Not Started",2
+M2R,10,Closed,1
+M3A,21,Inspection,34
+M3A,32,"Permit Issued",20
+M3A,44,"Revision Issued",2
+M3A,6,"Application On Hold",1
+M3A,45,"Revocation Pending",1
+M3A,38,"Refusal Notice",1
+M3A,14,"Examiner'S Notice Sent",1
+M3A,49,"Work Not Started",1
+M3C,21,Inspection,62
+M3C,32,"Permit Issued",29
+M3C,6,"Application On Hold",6
+M3C,27,"Notice Sent",4
+M3C,14,"Examiner'S Notice Sent",2
+M3C,44,"Revision Issued",2
+M3C,26,"Not Started",1
+M3C,5,"Application Acceptable",1
+M3C,47,"Under Review",1
+M3C,23,"Issuance Pending",1
+M3H,21,Inspection,611
+M3H,32,"Permit Issued",78
+M3H,14,"Examiner'S Notice Sent",8
+M3H,27,"Notice Sent",6
+M3H,47,"Under Review",5
+M3H,6,"Application On Hold",3
+M3H,23,"Issuance Pending",2
+M3H,44,"Revision Issued",2
+M3H,26,"Not Started",1
+M3H,45,"Revocation Pending",1
+M3H,31,"Pending Cancellation",1
+M3H,37,"Ready For Issuance",1
+M3J,21,Inspection,118
+M3J,32,"Permit Issued",82
+M3J,45,"Revocation Pending",8
+M3J,6,"Application On Hold",6
+M3J,44,"Revision Issued",5
+M3J,26,"Not Started",5
+M3J,23,"Issuance Pending",4
+M3J,47,"Under Review",4
+M3J,5,"Application Acceptable",2
+M3J,27,"Notice Sent",2
+M3J,14,"Examiner'S Notice Sent",2
+M3J,7,"Application Received",1
+M3J,49,"Work Not Started",1
+M3J,31,"Pending Cancellation",1
+M3J,38,"Refusal Notice",1
+M3J,10,Closed,1
+M3J,1,Abandoned,1
+M3J,36,Re-Examined,1
+M3J,42,"Response Received",1
+M3K,21,Inspection,189
+M3K,32,"Permit Issued",129
+M3K,23,"Issuance Pending",4
+M3K,47,"Under Review",2
+M3K,38,"Refusal Notice",1
+M3K,27,"Notice Sent",1
+M3K,44,"Revision Issued",1
+M3K,6,"Application On Hold",1
+M3K,26,"Not Started",1
+M3K,14,"Examiner'S Notice Sent",1
+M3K,4,"Applicable Law Pending",1
+M3K,50,"Work Suspended",1
+M3L,21,Inspection,11
+M3L,32,"Permit Issued",9
+M3L,45,"Revocation Pending",1
+M3M,32,"Permit Issued",7
+M3M,21,Inspection,4
+M3M,27,"Notice Sent",1
+M3M,49,"Work Not Started",1
+M3N,21,Inspection,67
+M3N,32,"Permit Issued",36
+M3N,6,"Application On Hold",2
+M3N,27,"Notice Sent",1
+M3N,38,"Refusal Notice",1
+M3N,4,"Applicable Law Pending",1
+M3N,45,"Revocation Pending",1
+M3N,49,"Work Not Started",1
+M4A,21,Inspection,27
+M4A,32,"Permit Issued",15
+M4A,44,"Revision Issued",1
+M4A,45,"Revocation Pending",1
+M4A,6,"Application On Hold",1
+M4B,21,Inspection,52
+M4B,32,"Permit Issued",15
+M4B,49,"Work Not Started",2
+M4B,44,"Revision Issued",2
+M4B,10,Closed,2
+M4B,45,"Revocation Pending",1
+M4C,21,Inspection,10
+M4C,32,"Permit Issued",9
+M4C,47,"Under Review",1
+M4E,21,Inspection,153
+M4E,32,"Permit Issued",65
+M4E,44,"Revision Issued",16
+M4E,49,"Work Not Started",6
+M4E,14,"Examiner'S Notice Sent",6
+M4E,10,Closed,3
+M4E,38,"Refusal Notice",3
+M4E,45,"Revocation Pending",3
+M4E,27,"Notice Sent",3
+M4E,42,"Response Received",2
+M4E,23,"Issuance Pending",2
+M4E,50,"Work Suspended",1
+M4E,37,"Ready For Issuance",1
+M4E,31,"Pending Cancellation",1
+M4E,6,"Application On Hold",1
+M4E,47,"Under Review",1
+M4G,21,Inspection,61
+M4G,32,"Permit Issued",37
+M4G,44,"Revision Issued",6
+M4G,26,"Not Started",5
+M4G,45,"Revocation Pending",4
+M4G,23,"Issuance Pending",2
+M4G,27,"Notice Sent",2
+M4G,38,"Refusal Notice",2
+M4G,10,Closed,1
+M4G,5,"Application Acceptable",1
+M4G,14,"Examiner'S Notice Sent",1
+M4J,21,Inspection,8
+M4J,32,"Permit Issued",5
+M4J,44,"Revision Issued",1
+M4J,49,"Work Not Started",1
+M4L,21,Inspection,401
+M4L,32,"Permit Issued",189
+M4L,44,"Revision Issued",31
+M4L,45,"Revocation Pending",15
+M4L,23,"Issuance Pending",8
+M4L,27,"Notice Sent",8
+M4L,14,"Examiner'S Notice Sent",6
+M4L,26,"Not Started",6
+M4L,6,"Application On Hold",5
+M4L,38,"Refusal Notice",4
+M4L,47,"Under Review",3
+M4L,7,"Application Received",2
+M4L,49,"Work Not Started",2
+M4L,10,Closed,2
+M4L,5,"Application Acceptable",1
+M4L,3,"Agreement In Progress",1
+M4L,1,Abandoned,1
+M4L,42,"Response Received",1
+M4L,4,"Applicable Law Pending",1
+M4M,21,Inspection,371
+M4M,32,"Permit Issued",140
+M4M,44,"Revision Issued",44
+M4M,42,"Response Received",16
+M4M,14,"Examiner'S Notice Sent",14
+M4M,45,"Revocation Pending",13
+M4M,47,"Under Review",11
+M4M,23,"Issuance Pending",10
+M4M,27,"Notice Sent",5
+M4M,26,"Not Started",4
+M4M,6,"Application On Hold",4
+M4M,10,Closed,4
+M4M,38,"Refusal Notice",4
+M4M,49,"Work Not Started",1
+M4M,1,Abandoned,1
+M4M,7,"Application Received",1
+M4M,31,"Pending Cancellation",1
+M4M,37,"Ready For Issuance",1
+M4N,21,Inspection,80
+M4N,32,"Permit Issued",33
+M4N,6,"Application On Hold",5
+M4N,44,"Revision Issued",4
+M4N,27,"Notice Sent",2
+M4N,45,"Revocation Pending",2
+M4N,38,"Refusal Notice",2
+M4N,47,"Under Review",2
+M4N,23,"Issuance Pending",2
+M4N,14,"Examiner'S Notice Sent",1
+M4N,26,"Not Started",1
+M4P,21,Inspection,171
+M4P,32,"Permit Issued",75
+M4P,44,"Revision Issued",12
+M4P,14,"Examiner'S Notice Sent",8
+M4P,47,"Under Review",6
+M4P,27,"Notice Sent",4
+M4P,23,"Issuance Pending",3
+M4P,26,"Not Started",2
+M4P,45,"Revocation Pending",1
+M4P,6,"Application On Hold",1
+M4P,38,"Refusal Notice",1
+M4P,10,Closed,1
+M4P,8,"Application Withdrawn",1
+M4R,21,Inspection,147
+M4R,32,"Permit Issued",46
+M4R,45,"Revocation Pending",7
+M4R,44,"Revision Issued",6
+M4R,27,"Notice Sent",3
+M4R,5,"Application Acceptable",3
+M4R,23,"Issuance Pending",1
+M4R,10,Closed,1
+M4R,49,"Work Not Started",1
+M4R,14,"Examiner'S Notice Sent",1
+M4R,47,"Under Review",1
+M4S,21,Inspection,121
+M4S,32,"Permit Issued",34
+M4S,44,"Revision Issued",11
+M4S,27,"Notice Sent",4
+M4S,6,"Application On Hold",2
+M4S,38,"Refusal Notice",2
+M4S,47,"Under Review",1
+M4S,45,"Revocation Pending",1
+M4S,7,"Application Received",1
+M4S,5,"Application Acceptable",1
+M4S,14,"Examiner'S Notice Sent",1
+M4S,26,"Not Started",1
+M4S,10,Closed,1
+M4T,21,Inspection,308
+M4T,32,"Permit Issued",91
+M4T,44,"Revision Issued",23
+M4T,45,"Revocation Pending",8
+M4T,10,Closed,7
+M4T,23,"Issuance Pending",5
+M4T,38,"Refusal Notice",4
+M4T,14,"Examiner'S Notice Sent",2
+M4T,5,"Application Acceptable",1
+M4T,27,"Notice Sent",1
+M4T,42,"Response Received",1
+M4T,37,"Ready For Issuance",1
+M4T,47,"Under Review",1
+M4V,21,Inspection,328
+M4V,32,"Permit Issued",117
+M4V,44,"Revision Issued",16
+M4V,6,"Application On Hold",8
+M4V,27,"Notice Sent",5
+M4V,14,"Examiner'S Notice Sent",3
+M4V,45,"Revocation Pending",2
+M4V,49,"Work Not Started",1
+M4V,23,"Issuance Pending",1
+M4V,47,"Under Review",1
+M4V,26,"Not Started",1
+M4V,5,"Application Acceptable",1
+M4V,4,"Applicable Law Pending",1
+M4W,32,"Permit Issued",493
+M4W,21,Inspection,492
+M4W,44,"Revision Issued",48
+M4W,6,"Application On Hold",12
+M4W,45,"Revocation Pending",6
+M4W,5,"Application Acceptable",6
+M4W,26,"Not Started",5
+M4W,49,"Work Not Started",4
+M4W,47,"Under Review",3
+M4W,42,"Response Received",2
+M4W,23,"Issuance Pending",2
+M4W,14,"Examiner'S Notice Sent",2
+M4W,27,"Notice Sent",2
+M4W,35,"Plan Review Complete",1
+M4W,10,Closed,1
+M4W,4,"Applicable Law Pending",1
+M4W,8,"Application Withdrawn",1
+M4W,7,"Application Received",1
+M4X,21,Inspection,67
+M4X,32,"Permit Issued",28
+M4X,44,"Revision Issued",6
+M4X,49,"Work Not Started",3
+M4X,26,"Not Started",2
+M4X,27,"Notice Sent",2
+M4X,6,"Application On Hold",1
+M4X,47,"Under Review",1
+M4X,45,"Revocation Pending",1
+M4X,42,"Response Received",1
+M4X,5,"Application Acceptable",1
+M4Y,21,Inspection,113
+M4Y,32,"Permit Issued",60
+M4Y,44,"Revision Issued",15
+M4Y,6,"Application On Hold",3
+M4Y,27,"Notice Sent",2
+M4Y,47,"Under Review",2
+M4Y,45,"Revocation Pending",2
+M4Y,42,"Response Received",1
+M4Y,49,"Work Not Started",1
+M4Y,7,"Application Received",1
+M4Y,26,"Not Started",1
+M4Y,1,Abandoned,1
+M4Y,14,"Examiner'S Notice Sent",1
+M5A,21,Inspection,521
+M5A,32,"Permit Issued",258
+M5A,44,"Revision Issued",50
+M5A,14,"Examiner'S Notice Sent",15
+M5A,38,"Refusal Notice",15
+M5A,6,"Application On Hold",12
+M5A,47,"Under Review",11
+M5A,45,"Revocation Pending",9
+M5A,23,"Issuance Pending",9
+M5A,26,"Not Started",6
+M5A,27,"Notice Sent",6
+M5A,49,"Work Not Started",6
+M5A,31,"Pending Cancellation",3
+M5A,42,"Response Received",3
+M5A,5,"Application Acceptable",3
+M5A,4,"Applicable Law Pending",2
+M5A,10,Closed,2
+M5A,8,"Application Withdrawn",1
+M5A,41,Rescheduled,1
+M5A,3,"Agreement In Progress",1
+M5A,37,"Ready For Issuance",1
+M5A,7,"Application Received",1
+M5B,21,Inspection,46
+M5B,32,"Permit Issued",20
+M5B,44,"Revision Issued",4
+M5B,6,"Application On Hold",2
+M5B,25,"Not Accepted",1
+M5B,26,"Not Started",1
+M5C,21,Inspection,212
+M5C,32,"Permit Issued",132
+M5C,44,"Revision Issued",10
+M5C,14,"Examiner'S Notice Sent",8
+M5C,6,"Application On Hold",6
+M5C,26,"Not Started",6
+M5C,23,"Issuance Pending",5
+M5C,47,"Under Review",4
+M5C,42,"Response Received",4
+M5C,50,"Work Suspended",2
+M5C,45,"Revocation Pending",2
+M5C,4,"Applicable Law Pending",1
+M5C,38,"Refusal Notice",1
+M5C,7,"Application Received",1
+M5E,32,"Permit Issued",78
+M5E,21,Inspection,64
+M5E,44,"Revision Issued",10
+M5E,42,"Response Received",2
+M5E,38,"Refusal Notice",2
+M5E,6,"Application On Hold",2
+M5E,26,"Not Started",1
+M5E,14,"Examiner'S Notice Sent",1
+M5E,49,"Work Not Started",1
+M5E,45,"Revocation Pending",1
+M5G,21,Inspection,379
+M5G,32,"Permit Issued",276
+M5G,44,"Revision Issued",29
+M5G,6,"Application On Hold",12
+M5G,45,"Revocation Pending",8
+M5G,23,"Issuance Pending",5
+M5G,27,"Notice Sent",4
+M5G,7,"Application Received",2
+M5G,14,"Examiner'S Notice Sent",2
+M5G,5,"Application Acceptable",1
+M5G,35,"Plan Review Complete",1
+M5G,26,"Not Started",1
+M5G,42,"Response Received",1
+M5G,36,Re-Examined,1
+M5H,21,Inspection,703
+M5H,32,"Permit Issued",539
+M5H,44,"Revision Issued",56
+M5H,6,"Application On Hold",24
+M5H,26,"Not Started",17
+M5H,47,"Under Review",10
+M5H,14,"Examiner'S Notice Sent",9
+M5H,45,"Revocation Pending",8
+M5H,5,"Application Acceptable",8
+M5H,49,"Work Not Started",7
+M5H,38,"Refusal Notice",4
+M5H,27,"Notice Sent",2
+M5H,37,"Ready For Issuance",2
+M5H,23,"Issuance Pending",1
+M5H,3,"Agreement In Progress",1
+M5H,31,"Pending Cancellation",1
+M5H,43,Revised,1
+M5H,4,"Applicable Law Pending",1
+M5H,29,"Order Complied",1
+M5H,7,"Application Received",1
+M5J,21,Inspection,189
+M5J,32,"Permit Issued",157
+M5J,44,"Revision Issued",24
+M5J,6,"Application On Hold",14
+M5J,49,"Work Not Started",3
+M5J,14,"Examiner'S Notice Sent",3
+M5J,26,"Not Started",3
+M5J,47,"Under Review",2
+M5J,45,"Revocation Pending",2
+M5J,38,"Refusal Notice",1
+M5J,5,"Application Acceptable",1
+M5J,1,Abandoned,1
+M5M,21,Inspection,55
+M5M,32,"Permit Issued",12
+M5M,27,"Notice Sent",4
+M5M,45,"Revocation Pending",3
+M5M,38,"Refusal Notice",1
+M5M,44,"Revision Issued",1
+M5M,26,"Not Started",1
+M5N,21,Inspection,120
+M5N,32,"Permit Issued",63
+M5N,27,"Notice Sent",5
+M5N,44,"Revision Issued",4
+M5N,10,Closed,3
+M5N,26,"Not Started",3
+M5N,47,"Under Review",3
+M5N,49,"Work Not Started",2
+M5N,6,"Application On Hold",2
+M5N,36,Re-Examined,2
+M5N,23,"Issuance Pending",2
+M5N,45,"Revocation Pending",1
+M5N,38,"Refusal Notice",1
+M5P,21,Inspection,65
+M5P,32,"Permit Issued",41
+M5P,45,"Revocation Pending",3
+M5P,44,"Revision Issued",3
+M5P,47,"Under Review",1
+M5P,42,"Response Received",1
+M5P,26,"Not Started",1
+M5P,14,"Examiner'S Notice Sent",1
+M5P,27,"Notice Sent",1
+M5R,21,Inspection,42
+M5R,32,"Permit Issued",21
+M5R,44,"Revision Issued",12
+M5R,23,"Issuance Pending",2
+M5R,27,"Notice Sent",2
+M5R,45,"Revocation Pending",2
+M5R,49,"Work Not Started",1
+M5R,10,Closed,1
+M5R,26,"Not Started",1
+M5R,6,"Application On Hold",1
+M5R,38,"Refusal Notice",1
+M5S,21,Inspection,403
+M5S,32,"Permit Issued",303
+M5S,44,"Revision Issued",45
+M5S,6,"Application On Hold",11
+M5S,47,"Under Review",10
+M5S,14,"Examiner'S Notice Sent",10
+M5S,23,"Issuance Pending",7
+M5S,49,"Work Not Started",7
+M5S,45,"Revocation Pending",7
+M5S,26,"Not Started",6
+M5S,27,"Notice Sent",4
+M5S,5,"Application Acceptable",2
+M5S,38,"Refusal Notice",2
+M5S,42,"Response Received",2
+M5S,17,"File Closed",1
+M5S,10,Closed,1
+M5S,37,"Ready For Issuance",1
+M5T,21,Inspection,336
+M5T,32,"Permit Issued",78
+M5T,45,"Revocation Pending",43
+M5T,44,"Revision Issued",23
+M5T,38,"Refusal Notice",9
+M5T,14,"Examiner'S Notice Sent",5
+M5T,6,"Application On Hold",3
+M5T,23,"Issuance Pending",3
+M5T,27,"Notice Sent",2
+M5T,31,"Pending Cancellation",1
+M5T,36,Re-Examined,1
+M5T,47,"Under Review",1
+M5T,26,"Not Started",1
+M5T,37,"Ready For Issuance",1
+M5T,42,"Response Received",1
+M5T,10,Closed,1
+M5T,5,"Application Acceptable",1
+M5V,21,Inspection,1164
+M5V,32,"Permit Issued",838
+M5V,44,"Revision Issued",118
+M5V,14,"Examiner'S Notice Sent",47
+M5V,6,"Application On Hold",47
+M5V,45,"Revocation Pending",32
+M5V,23,"Issuance Pending",26
+M5V,38,"Refusal Notice",23
+M5V,26,"Not Started",18
+M5V,47,"Under Review",14
+M5V,5,"Application Acceptable",13
+M5V,27,"Notice Sent",10
+M5V,42,"Response Received",6
+M5V,31,"Pending Cancellation",5
+M5V,49,"Work Not Started",4
+M5V,4,"Applicable Law Pending",2
+M5V,8,"Application Withdrawn",2
+M5V,37,"Ready For Issuance",2
+M5V,35,"Plan Review Complete",2
+M5V,33,"Permit Issued/Close File",1
+M5V,10,Closed,1
+M5V,1,Abandoned,1
+M5V,43,Revised,1
+M5V,36,Re-Examined,1
+M5X,21,Inspection,66
+M5X,32,"Permit Issued",50
+M5X,44,"Revision Issued",6
+M5X,45,"Revocation Pending",2
+M5X,6,"Application On Hold",2
+M5X,26,"Not Started",1
+M5X,47,"Under Review",1
+M6A,21,Inspection,515
+M6A,32,"Permit Issued",101
+M6A,23,"Issuance Pending",8
+M6A,44,"Revision Issued",7
+M6A,14,"Examiner'S Notice Sent",4
+M6A,45,"Revocation Pending",3
+M6A,6,"Application On Hold",3
+M6A,47,"Under Review",2
+M6A,38,"Refusal Notice",1
+M6A,26,"Not Started",1
+M6A,49,"Work Not Started",1
+M6A,10,Closed,1
+M6A,42,"Response Received",1
+M6C,21,Inspection,159
+M6C,32,"Permit Issued",80
+M6C,44,"Revision Issued",19
+M6C,45,"Revocation Pending",11
+M6C,47,"Under Review",5
+M6C,26,"Not Started",5
+M6C,6,"Application On Hold",4
+M6C,38,"Refusal Notice",4
+M6C,27,"Notice Sent",4
+M6C,23,"Issuance Pending",3
+M6C,42,"Response Received",3
+M6C,49,"Work Not Started",2
+M6C,14,"Examiner'S Notice Sent",2
+M6C,31,"Pending Cancellation",1
+M6C,8,"Application Withdrawn",1
+M6E,21,Inspection,179
+M6E,32,"Permit Issued",104
+M6E,44,"Revision Issued",17
+M6E,45,"Revocation Pending",16
+M6E,42,"Response Received",10
+M6E,23,"Issuance Pending",9
+M6E,27,"Notice Sent",6
+M6E,47,"Under Review",5
+M6E,14,"Examiner'S Notice Sent",5
+M6E,38,"Refusal Notice",4
+M6E,26,"Not Started",3
+M6E,6,"Application On Hold",2
+M6E,49,"Work Not Started",1
+M6E,20,"Forwarded For Issuance",1
+M6E,31,"Pending Cancellation",1
+M6E,5,"Application Acceptable",1
+M6E,10,Closed,1
+M6G,21,Inspection,87
+M6G,32,"Permit Issued",40
+M6G,44,"Revision Issued",11
+M6G,45,"Revocation Pending",6
+M6G,47,"Under Review",4
+M6G,23,"Issuance Pending",3
+M6G,27,"Notice Sent",2
+M6G,8,"Application Withdrawn",2
+M6G,5,"Application Acceptable",1
+M6G,6,"Application On Hold",1
+M6G,31,"Pending Cancellation",1
+M6H,21,Inspection,178
+M6H,32,"Permit Issued",94
+M6H,44,"Revision Issued",22
+M6H,6,"Application On Hold",9
+M6H,45,"Revocation Pending",9
+M6H,47,"Under Review",8
+M6H,14,"Examiner'S Notice Sent",7
+M6H,23,"Issuance Pending",6
+M6H,42,"Response Received",6
+M6H,27,"Notice Sent",4
+M6H,38,"Refusal Notice",3
+M6H,8,"Application Withdrawn",2
+M6H,5,"Application Acceptable",2
+M6H,4,"Applicable Law Pending",2
+M6H,49,"Work Not Started",2
+M6H,26,"Not Started",2
+M6H,1,Abandoned,1
+M6J,21,Inspection,623
+M6J,32,"Permit Issued",234
+M6J,44,"Revision Issued",57
+M6J,23,"Issuance Pending",20
+M6J,14,"Examiner'S Notice Sent",20
+M6J,6,"Application On Hold",14
+M6J,26,"Not Started",13
+M6J,47,"Under Review",13
+M6J,27,"Notice Sent",11
+M6J,45,"Revocation Pending",10
+M6J,10,Closed,6
+M6J,38,"Refusal Notice",6
+M6J,42,"Response Received",2
+M6J,37,"Ready For Issuance",2
+M6J,1,Abandoned,2
+M6J,7,"Application Received",2
+M6J,31,"Pending Cancellation",2
+M6J,49,"Work Not Started",2
+M6J,43,Revised,1
+M6J,8,"Application Withdrawn",1
+M6K,21,Inspection,296
+M6K,32,"Permit Issued",186
+M6K,44,"Revision Issued",43
+M6K,14,"Examiner'S Notice Sent",14
+M6K,47,"Under Review",9
+M6K,45,"Revocation Pending",8
+M6K,6,"Application On Hold",8
+M6K,27,"Notice Sent",7
+M6K,26,"Not Started",4
+M6K,49,"Work Not Started",4
+M6K,38,"Refusal Notice",3
+M6K,42,"Response Received",1
+M6K,23,"Issuance Pending",1
+M6K,31,"Pending Cancellation",1
+M6K,1,Abandoned,1
+M6K,10,Closed,1
+M6L,21,Inspection,92
+M6L,32,"Permit Issued",23
+M6L,27,"Notice Sent",4
+M6L,26,"Not Started",4
+M6L,23,"Issuance Pending",4
+M6L,44,"Revision Issued",3
+M6L,31,"Pending Cancellation",3
+M6L,49,"Work Not Started",2
+M6L,47,"Under Review",2
+M6L,5,"Application Acceptable",2
+M6L,6,"Application On Hold",1
+M6L,45,"Revocation Pending",1
+M6L,14,"Examiner'S Notice Sent",1
+M6L,10,Closed,1
+M6M,21,Inspection,64
+M6M,32,"Permit Issued",39
+M6M,44,"Revision Issued",8
+M6M,23,"Issuance Pending",4
+M6M,6,"Application On Hold",3
+M6M,27,"Notice Sent",2
+M6M,47,"Under Review",2
+M6M,5,"Application Acceptable",1
+M6M,38,"Refusal Notice",1
+M6M,45,"Revocation Pending",1
+M6M,31,"Pending Cancellation",1
+M6M,14,"Examiner'S Notice Sent",1
+M6N,23,"Issuance Pending",192
+M6N,32,"Permit Issued",129
+M6N,21,Inspection,110
+M6N,47,"Under Review",63
+M6N,14,"Examiner'S Notice Sent",40
+M6N,37,"Ready For Issuance",13
+M6N,44,"Revision Issued",9
+M6N,45,"Revocation Pending",5
+M6N,27,"Notice Sent",3
+M6N,5,"Application Acceptable",1
+M6N,6,"Application On Hold",1
+M6N,35,"Plan Review Complete",1
+M6N,42,"Response Received",1
+M6N,7,"Application Received",1
+M6P,21,Inspection,317
+M6P,32,"Permit Issued",110
+M6P,44,"Revision Issued",34
+M6P,47,"Under Review",14
+M6P,26,"Not Started",12
+M6P,14,"Examiner'S Notice Sent",9
+M6P,27,"Notice Sent",8
+M6P,49,"Work Not Started",7
+M6P,42,"Response Received",7
+M6P,6,"Application On Hold",6
+M6P,10,Closed,5
+M6P,23,"Issuance Pending",4
+M6P,45,"Revocation Pending",4
+M6P,38,"Refusal Notice",3
+M6P,31,"Pending Cancellation",2
+M6P,20,"Forwarded For Issuance",1
+M6P,36,Re-Examined,1
+M6P,5,"Application Acceptable",1
+M6P,35,"Plan Review Complete",1
+M6P,37,"Ready For Issuance",1
+M6R,21,Inspection,138
+M6R,32,"Permit Issued",66
+M6R,44,"Revision Issued",13
+M6R,45,"Revocation Pending",6
+M6R,14,"Examiner'S Notice Sent",5
+M6R,26,"Not Started",4
+M6R,27,"Notice Sent",3
+M6R,42,"Response Received",2
+M6R,38,"Refusal Notice",2
+M6S,21,Inspection,234
+M6S,32,"Permit Issued",104
+M6S,44,"Revision Issued",21
+M6S,27,"Notice Sent",4
+M6S,45,"Revocation Pending",4
+M6S,49,"Work Not Started",2
+M6S,47,"Under Review",2
+M6S,36,Re-Examined,1
+M6S,38,"Refusal Notice",1
+M6S,23,"Issuance Pending",1
+M6S,14,"Examiner'S Notice Sent",1
+M6S,26,"Not Started",1
+M7A,21,Inspection,38
+M7A,32,"Permit Issued",36
+M7A,6,"Application On Hold",1
+M8V,21,Inspection,329
+M8V,32,"Permit Issued",199
+M8V,44,"Revision Issued",19
+M8V,45,"Revocation Pending",18
+M8V,38,"Refusal Notice",9
+M8V,23,"Issuance Pending",6
+M8V,14,"Examiner'S Notice Sent",5
+M8V,26,"Not Started",5
+M8V,42,"Response Received",4
+M8V,6,"Application On Hold",3
+M8V,47,"Under Review",3
+M8V,31,"Pending Cancellation",2
+M8V,27,"Notice Sent",2
+M8V,37,"Ready For Issuance",1
+M8W,21,Inspection,127
+M8W,32,"Permit Issued",34
+M8W,14,"Examiner'S Notice Sent",16
+M8W,23,"Issuance Pending",7
+M8W,38,"Refusal Notice",5
+M8W,47,"Under Review",5
+M8W,26,"Not Started",3
+M8W,44,"Revision Issued",3
+M8W,6,"Application On Hold",2
+M8W,27,"Notice Sent",1
+M8W,10,Closed,1
+M8W,45,"Revocation Pending",1
+M8X,21,Inspection,244
+M8X,32,"Permit Issued",90
+M8X,44,"Revision Issued",14
+M8X,45,"Revocation Pending",10
+M8X,38,"Refusal Notice",7
+M8X,14,"Examiner'S Notice Sent",7
+M8X,23,"Issuance Pending",7
+M8X,42,"Response Received",4
+M8X,27,"Notice Sent",4
+M8X,6,"Application On Hold",3
+M8X,10,Closed,3
+M8X,26,"Not Started",2
+M8X,31,"Pending Cancellation",2
+M8X,37,"Ready For Issuance",1
+M8X,47,"Under Review",1
+M8Y,21,Inspection,249
+M8Y,32,"Permit Issued",40
+M8Y,44,"Revision Issued",11
+M8Y,27,"Notice Sent",5
+M8Y,23,"Issuance Pending",4
+M8Y,49,"Work Not Started",3
+M8Y,10,Closed,3
+M8Y,47,"Under Review",2
+M8Y,45,"Revocation Pending",2
+M8Z,21,Inspection,20
+M8Z,32,"Permit Issued",2
+M8Z,44,"Revision Issued",2
+M9A,21,Inspection,107
+M9A,32,"Permit Issued",33
+M9A,44,"Revision Issued",7
+M9A,27,"Notice Sent",5
+M9A,14,"Examiner'S Notice Sent",5
+M9A,45,"Revocation Pending",4
+M9A,47,"Under Review",4
+M9A,26,"Not Started",4
+M9A,10,Closed,3
+M9A,42,"Response Received",2
+M9A,49,"Work Not Started",2
+M9A,23,"Issuance Pending",2
+M9A,37,"Ready For Issuance",2
+M9A,31,"Pending Cancellation",1
+M9A,7,"Application Received",1
+M9A,6,"Application On Hold",1
+M9A,4,"Applicable Law Pending",1
+M9B,21,Inspection,259
+M9B,32,"Permit Issued",77
+M9B,14,"Examiner'S Notice Sent",13
+M9B,47,"Under Review",8
+M9B,23,"Issuance Pending",8
+M9B,44,"Revision Issued",8
+M9B,27,"Notice Sent",7
+M9B,45,"Revocation Pending",6
+M9B,26,"Not Started",5
+M9B,42,"Response Received",5
+M9B,10,Closed,3
+M9B,6,"Application On Hold",2
+M9B,38,"Refusal Notice",1
+M9B,29,"Order Complied",1
